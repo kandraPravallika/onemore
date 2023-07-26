@@ -1,1 +1,2 @@
 onemore line
+second line from remote
